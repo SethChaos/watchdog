@@ -1,4 +1,3 @@
-// unified_scanner_hybrid.go
 package main
 
 import (
